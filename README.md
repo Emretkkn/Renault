@@ -1,2 +1,2 @@
 # RENAULT TURKEY DSS
-Renault Türkiye için geliştirilmiş Karar Destek Sistemi
+Renault Türkiye için geliştirilmiş Karar Destek Sistemi Projesi
